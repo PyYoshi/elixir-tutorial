@@ -8,7 +8,7 @@ Elixirチュートリアル
 ## 準備
 
 ```bash
-$ phoenix/app
+$ cd phoenix/app
 $ mix deps.get
 ```
 
